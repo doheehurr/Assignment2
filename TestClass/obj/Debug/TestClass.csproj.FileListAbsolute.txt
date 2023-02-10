@@ -1,0 +1,11 @@
+D:\시스템\Desktop\TriangleSolver\TestClass\obj\Debug\TestClass.csproj.AssemblyReference.cache
+D:\시스템\Desktop\TriangleSolver\TestClass\obj\Debug\TestClass.csproj.CoreCompileInputs.cache
+D:\시스템\Desktop\TriangleSolver\TestClass\bin\Debug\TestClass.dll
+D:\시스템\Desktop\TriangleSolver\TestClass\bin\Debug\TestClass.pdb
+D:\시스템\Desktop\TriangleSolver\TestClass\bin\Debug\nunit.framework.dll
+D:\시스템\Desktop\TriangleSolver\TestClass\bin\Debug\TriangleSolver.dll
+D:\시스템\Desktop\TriangleSolver\TestClass\bin\Debug\TriangleSolver.pdb
+D:\시스템\Desktop\TriangleSolver\TestClass\bin\Debug\nunit.framework.xml
+D:\시스템\Desktop\TriangleSolver\TestClass\obj\Debug\TestClass.csproj.CopyComplete
+D:\시스템\Desktop\TriangleSolver\TestClass\obj\Debug\TestClass.dll
+D:\시스템\Desktop\TriangleSolver\TestClass\obj\Debug\TestClass.pdb

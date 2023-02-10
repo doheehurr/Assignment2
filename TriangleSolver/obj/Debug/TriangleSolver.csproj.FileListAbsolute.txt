@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\TriangleSolver\TriangleSolver\bin\Debug\TriangleSolver.dll
+C:\Users\Administrator\source\repos\TriangleSolver\TriangleSolver\bin\Debug\TriangleSolver.pdb
+C:\Users\Administrator\source\repos\TriangleSolver\TriangleSolver\obj\Debug\TriangleSolver.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\TriangleSolver\TriangleSolver\obj\Debug\TriangleSolver.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\TriangleSolver\TriangleSolver\obj\Debug\TriangleSolver.dll
+C:\Users\Administrator\source\repos\TriangleSolver\TriangleSolver\obj\Debug\TriangleSolver.pdb
+D:\시스템\Desktop\TriangleSolver\TriangleSolver\obj\Debug\TriangleSolver.csproj.AssemblyReference.cache
+D:\시스템\Desktop\TriangleSolver\TriangleSolver\obj\Debug\TriangleSolver.csproj.CoreCompileInputs.cache
+D:\시스템\Desktop\TriangleSolver\TriangleSolver\obj\Debug\TriangleSolver.dll
+D:\시스템\Desktop\TriangleSolver\TriangleSolver\obj\Debug\TriangleSolver.pdb
+D:\시스템\Desktop\TriangleSolver\TriangleSolver\bin\Debug\TriangleSolver.dll
+D:\시스템\Desktop\TriangleSolver\TriangleSolver\bin\Debug\TriangleSolver.pdb
+D:\시스템\Desktop\TriangleSolver\TriangleSolver\bin\Debug\nunit.framework.dll
+D:\시스템\Desktop\TriangleSolver\TriangleSolver\bin\Debug\nunit.framework.xml
+D:\시스템\Desktop\TriangleSolver\TriangleSolver\obj\Debug\TriangleSolver.csproj.CopyComplete
